@@ -5,6 +5,7 @@ const App = () => {
     <>
     <section className="bg-[#000000] h-screen">
       <NavBar/>
+      
       <h1 className="text-3x1 font-serif text-center">Hi there</h1>
     </section>
 
