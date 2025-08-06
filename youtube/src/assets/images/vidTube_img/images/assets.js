@@ -15,6 +15,7 @@ import search from  './search.png'
 import share from  './share.png'
 import show_more from  './show-more.png'
 import cast from './cast.png'
+import menu from './menu.png'
 import banner from './banner.png'
 import voice_search from './voice-search.png'
 import cameron from './cameron.png'
@@ -36,6 +37,7 @@ import video from './video.mp4'
 
 export const assets = {
    video,
+   menu,
    save,
    like,share,
    thumbnail1,
